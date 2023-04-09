@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-
+# Write a Python program to solve (x + y) * (x + y)
 x = 4
 y = 3
 result = (x + y) * (x + y)
